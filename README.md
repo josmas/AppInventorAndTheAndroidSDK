@@ -1,3 +1,6 @@
+Modified reveal.js repo for Intro to MIT AI2 course
+Jos Sept. 13
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
